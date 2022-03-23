@@ -1,6 +1,8 @@
 # Multilabel Toxic Comment Classification
 
-A toxic comment classification using BERT, RNNs, CNNs using data from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
+A toxic comment classification using BERT, RNNs, CNNs using data from the challenge https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
+
+To learn more about the project you can consult the [presentation](Presentation.pdf) and the [report](Report.pdf).
 
 # Group
 
